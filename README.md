@@ -2,7 +2,7 @@
 
 ## Reflections on LLM Evaluation
 
-Working with LLMs (ChatGPT-4, Claude) on this dataset was insightful. The models were highly accurate when answering direct, fact-based questions based on provided summaries or basic stats. For example, they correctly computed save percentages, shot conversion rates, and trends in period-wise performance.
+Working with LLMs (ChatGPT-4, Claude) on this dataset (2025) was insightful. The models were highly accurate when answering direct, fact-based questions based on provided summaries or basic stats. For example, they correctly computed save percentages, shot conversion rates, and trends in period-wise performance.
 
 However, limitations emerged when the questions required player-level data or inferred insights not explicitly available. For instance, when asked to identify the "most improved player," the LLM fabricated an answer by assuming a pattern based on aggregate stats. This reflects a common risk with LLMs: confident-sounding hallucinations in the absence of structured context.
 
