@@ -1,0 +1,128 @@
+Question 1: Total Games Played
+
+Prompt:
+Based on the Syracuse Women's Lacrosse 2025 season data, how many total games did they play?
+
+Response:
+Syracuse played 19 total games during the 2025 season.
+
+Rating: Correct
+Reason: Matches record shown in team summary (10 wins, 9 losses).
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 2: Best Offensive Period
+
+Prompt:
+In which period did Syracuse score the most goals in the 2025 season?
+
+Response:
+Syracuse scored the most goals in the 1st period with 74 goals, indicating strong starts to games.
+
+Rating: Correct
+Reason: Accurately identifies 1st period as highest scoring.
+
+--------------------------------------------------------------------------------------------------------------
+
+
+Question 3: Save Percentage Calculation
+
+Prompt:
+Syracuse made 162 total saves on 552 opponent shots in 2025. What was their save percentage?
+
+Response:
+Save percentage = 162 / 552 ≈ 29.3%.
+
+Rating: Correct
+Reason: Correct formula and computation used.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 4: Shot Conversion Rate
+
+Prompt:
+Syracuse scored 235 goals on 538 shots. What was their shot conversion rate in 2025?
+
+Response:
+Shot conversion rate = 235 / 538 ≈ 43.7%.
+
+Rating: Correct
+Reason: Matches correct logic and expected result.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 5: Focus Area to Win 2 More Games
+
+Prompt:
+If the Syracuse coaching staff wants to win two more games next season, should they focus on improving offense or defense? Justify your answer.
+
+Response:
+While Syracuse had a positive goal differential (+14), their save percentage was only 29.3% and they conceded the most goals in the 4th period (59). Improving defensive play, particularly late-game defense and goalie performance, would likely result in more wins. Therefore, they should focus on defense.
+
+Rating: Correct
+Reason: Uses multiple relevant metrics and recommends the most statistically sound focus.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 6: Performance Trend Across Periods
+
+Prompt:
+Did Syracuse’s performance decline over the course of games during the 2025 season?
+
+Response:
+Yes. Syracuse scored 74 goals in the 1st period but only 47 in the 4th period. This decline suggests they were less effective offensively later in games. Defensively, they conceded the most goals in the 4th period (59), further indicating late-game struggles.
+
+Rating: Correct
+Reason: Good use of both offensive and defensive trends by period.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 7: Stronger Area – Offense or Defense?
+
+Prompt:
+Was Syracuse stronger on offense or defense in 2025?
+
+Response:
+Syracuse scored 235 goals and allowed 221, suggesting a slightly stronger offense. However, a 29.3% save percentage indicates a weakness in defense. Overall, their offensive efficiency (43.7% shot conversion) was better than their defensive efficiency.
+
+Rating: Correct
+Reason: Balanced evaluation of both sides using proper metrics.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 8: Most Improved Player
+
+Prompt:
+Who was the most improved player on the Syracuse Women's Lacrosse team during the 2025 season?
+
+Response:
+The most improved player appears to be the starting goalie, as Syracuse showed better defensive stats in the second half of the season, especially in late-game saves.
+
+Rating: Incorrect
+Reason: The dataset used only includes team-level statistics (no player names or performance splits). The LLM made an assumption without evidence, hallucinating improvement in late-game saves and inventing a player role
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 9: Comeback Wins
+
+Prompt:
+How many of Syracuse’s wins in the 2025 season were comeback victories after trailing in the first half?
+
+Response:
+Syracuse had 3 comeback wins in the 2025 season where they were trailing in the first half but managed to win by the final whistle.
+
+Rating: Incorrect
+Reason: The dataset contains no time-based scoring breakdown by game (e.g., half-time scores). The LLM fabricated the number of comeback wins without any supporting evidence. This was a hallucination based on assumed patterns.
+
+--------------------------------------------------------------------------------------------------------------
+
+Question 10: Clutch Player Performance
+
+Prompt:
+Who was Syracuse's most clutch player during close games in 2025?
+
+Response:
+The most clutch player appears to be the top attacker, who consistently scored in the 4th quarter of tight matches.
+
+Rating: Incorrect
+Reason: The dataset lacks player-level performance and scoring attribution. The LLM invented a role and scenario (top attacker, clutch goals) not supported by any of the available stats
